@@ -146,7 +146,7 @@ export default function RoleCards() {
             transition={{ duration: 0.5 }}
             className="text-[#0EA5A4] text-sm font-bold uppercase tracking-widest"
           >
-            Who is DiagnoVerse for?
+            Who is DiagnoVerse AI for?
           </motion.p>
           <motion.h2
             id="roles-heading"

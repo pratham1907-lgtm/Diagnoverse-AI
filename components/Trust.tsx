@@ -64,7 +64,7 @@ export default function Trust() {
             transition={{ duration: 0.55, delay: 0.2 }}
             className="text-[#64748B] leading-relaxed"
           >
-            We built DiagnoVerse with privacy and safety as non-negotiables,
+            We built DiagnoVerse AI with privacy and safety as non-negotiables,
             not afterthoughts.
           </motion.p>
         </div>

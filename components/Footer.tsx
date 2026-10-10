@@ -34,7 +34,7 @@ export default function Footer() {
             <Link
               href="/"
               className="inline-flex items-center gap-2 group"
-              aria-label="DiagnoVerse home"
+              aria-label="DiagnoVerse AI home"
             >
               <span className="w-8 h-8 rounded-full gradient-brand flex items-center justify-center">
                 <Activity className="w-4 h-4 text-white" aria-hidden="true" />
@@ -43,7 +43,7 @@ export default function Footer() {
                 className="text-xl font-bold text-white"
                 style={{ fontFamily: "var(--font-plus-jakarta)" }}
               >
-                DiagnoVerse
+                DiagnoVerse AI
               </span>
             </Link>
             {/* Description */}
@@ -121,7 +121,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-white/40">
           <p>
-            &copy; {year} DiagnoVerse. All rights reserved. Demo product — not
+            &copy; {year} DiagnoVerse AI. All rights reserved. Demo product — not
             a licensed medical service.
           </p>
           <p className="italic text-center sm:text-right max-w-sm">

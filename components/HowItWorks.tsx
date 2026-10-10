@@ -64,7 +64,7 @@ export default function HowItWorks() {
             className="text-3xl sm:text-4xl font-extrabold text-[#0B1B33]"
             style={{ fontFamily: "var(--font-plus-jakarta)" }}
           >
-            How DiagnoVerse{" "}
+            How DiagnoVerse AI{" "}
             <span className="gradient-brand-text">works</span>
           </motion.h2>
         </div>
@@ -80,7 +80,7 @@ export default function HowItWorks() {
           <ol
             className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8"
             role="list"
-            aria-label="How DiagnoVerse works — 4 steps"
+            aria-label="How DiagnoVerse AI works — 4 steps"
           >
             {STEPS.map(({ icon: Icon, num, title, desc, color }, i) => (
               <motion.li

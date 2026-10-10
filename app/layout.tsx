@@ -17,9 +17,9 @@ const plusJakarta = Plus_Jakarta_Sans({
 
 /* ── Metadata ───────────────────────────────────────────────── */
 export const metadata: Metadata = {
-  title: "DiagnoVerse — Your Digital Health Support System",
+  title: "DiagnoVerse AI — Your Digital Health Support System",
   description:
-    "DiagnoVerse connects Doctors and Patients on one platform with AI-assisted diagnosis support, shared records, and continuous follow-up.",
+    "DiagnoVerse AI connects Doctors and Patients on one platform with AI-assisted diagnosis support, shared records, and continuous follow-up.",
   keywords: [
     "digital health",
     "telemedicine",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "doctor patient platform",
   ],
   openGraph: {
-    title: "DiagnoVerse — Your Digital Health Support System",
+    title: "DiagnoVerse AI — Your Digital Health Support System",
     description:
       "AI-assisted clinical support for doctors. Records, reminders and guidance for patients. One connected care loop.",
     type: "website",

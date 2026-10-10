@@ -48,7 +48,7 @@ export default function Navbar() {
         <Link
           href="/"
           className="flex items-center gap-2 group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal-500 rounded-md"
-          aria-label="DiagnoVerse home"
+          aria-label="DiagnoVerse AI home"
         >
           {/* Pulse / DNA mark */}
           <span className="relative flex items-center justify-center w-8 h-8">
@@ -63,7 +63,7 @@ export default function Navbar() {
             className="text-xl font-bold gradient-brand-text"
             style={{ fontFamily: "var(--font-plus-jakarta)" }}
           >
-            DiagnoVerse
+            DiagnoVerse AI
           </span>
         </Link>
 

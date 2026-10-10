@@ -66,7 +66,7 @@ export default function ConnectionFlow() {
             transition={{ duration: 0.55, delay: 0.2 }}
             className="text-[#64748B] leading-relaxed"
           >
-            DiagnoVerse bridges the gap between clinical expertise and patient
+            DiagnoVerse AI bridges the gap between clinical expertise and patient
             needs — with an AI layer that amplifies the doctor&apos;s judgment.
           </motion.p>
         </div>

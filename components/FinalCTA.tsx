@@ -49,7 +49,7 @@ export default function FinalCTA() {
 
             {/* Subtext */}
             <p className="text-base sm:text-lg opacity-85 max-w-xl mx-auto leading-relaxed">
-              Join thousands of doctors and patients already using DiagnoVerse
+              Join thousands of doctors and patients already using DiagnoVerse AI
               for smarter, faster, and more human healthcare.
             </p>
 
